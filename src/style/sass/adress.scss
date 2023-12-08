@@ -1,0 +1,369 @@
+.RestaurantAdress {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+  width: 1550px;
+  /* border: 10px solid green; */
+}
+.adresscontainer {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+  width: 100%;
+  /* border: 5px solid red; */
+}
+.restoraunt img {
+  width: 100%;
+}
+.adress {
+  /* border: 3px solid black; */
+  margin-top: 55px;
+}
+.adress1 {
+  text-align: center;
+  font-size: 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 270px;
+}
+.leftadress {
+  position: relative;
+  right: 50px;
+  margin: 0 auto;
+  /* border: 3px solid black; */
+}
+.leftadress p {
+  font-size: 20px;
+  position: relative;
+  left: 110px;
+  bottom: 65px;
+  /* border: 3px solid black; */
+}
+.leftadress h1 {
+  font-size: 30px;
+}
+.rightadress {
+  position: relative;
+  right: 89px;
+  margin: 0 auto;
+  /* border: 3px solid red; */
+}
+.rightadress p {
+  /* border: 3px solid red; */
+  font-size: 20px;
+  position: relative;
+  left: 12px;
+  bottom: 65px;
+  /* border: 3px solid black; */
+}
+.rightadress h1 {
+  position: relative;
+  right: 210px;
+  font-size: 35px;
+}
+.leftadress a {
+  text-decoration: none;
+}
+.rightadress a {
+  text-decoration: none;
+}
+.restoraunt {
+  /* background-color: blue; */
+  text-align: center;
+}
+.restoraunt .text {
+  width: 100%;
+  margin: 0 auto;
+  /* background-color: red; */
+  font-size: 40px;
+}
+.restoraunt .text h1 {
+  text-align: center;
+}
+.adress2 {
+  text-align: center;
+  font-size: 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 270px;
+}
+.adress2 .leftadress h1 {
+  position: relative;
+  left: 30px;
+}
+.adress2 .leftadress p {
+  position: relative;
+  left: 95px;
+  /* background-color: red; */
+}
+.adress2 .rightadress h1 {
+  position: relative;
+  right: 135px;
+}
+.adress2 .rightadress p {
+  position: relative;
+  left: 40px;
+  /* background-color: red; */
+}
+.adress3 {
+  text-align: center;
+  font-size: 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 270px;
+}
+.adress3 .leftadress h1 {
+  position: relative;
+  right: 85px;
+}
+.adress3 .leftadress p {
+  position: relative;
+  left: 165px;
+  /* background-color: red; */
+}
+.adress3 .rightadress h1 {
+  position: relative;
+  right: 230px;
+}
+.adress3 .rightadress p {
+  position: relative;
+  left: -10px;
+  /* background-color: red; */
+}
+
+.adress4 {
+  text-align: center;
+  font-size: 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 270px;
+}
+.adress4 .leftadress h1 {
+  position: relative;
+  right: 85px;
+}
+.adress4 .leftadress p {
+  position: relative;
+  left: 90px;
+  /* background-color: red; */
+}
+.adress4 .rightadress h1 {
+  position: relative;
+  right: 210px;
+}
+.adress4 .rightadress p {
+  position: relative;
+  left: -40px;
+  /* background-color: red; */
+}
+
+.adress5 {
+  text-align: center;
+  font-size: 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 270px;
+}
+.adress5 .leftadress h1 {
+  position: relative;
+  right: 38px;
+}
+.adress5 .leftadress p {
+  position: relative;
+  left: 164px;
+  /* background-color: red; */
+}
+.adress5 .rightadress h1 {
+  position: relative;
+  right: 149px;
+}
+.adress5 .rightadress p {
+  position: relative;
+  left: 70px;
+  /* background-color: red; */
+}
+.adress6 {
+  text-align: center;
+  font-size: 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 270px;
+}
+.adress6 .leftadress h1 {
+  position: relative;
+  right: 55px;
+}
+.adress6 .leftadress p {
+  position: relative;
+  left: 164px;
+  /* background-color: red; */
+}
+.adress6 .rightadress h1 {
+  position: relative;
+  right: 125px;
+}
+.adress6 .rightadress p {
+  position: relative;
+  left: 35px;
+  /* background-color: red; */
+}
+
+.adress7 {
+  text-align: center;
+  font-size: 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 270px;
+}
+.adress7 .leftadress h1 {
+  position: relative;
+  right: 35px;
+}
+.adress7 .leftadress p {
+  position: relative;
+  left: 180px;
+  /* background-color: red; */
+}
+.adress7 .rightadress h1 {
+  position: relative;
+  right: 150px;
+  bottom: 25px;
+}
+.adress7 .rightadress p {
+  position: relative;
+  left: 75px;
+  bottom: 84px;
+  /* background-color: red; */
+}
+
+.adress8 {
+  text-align: center;
+  font-size: 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 270px;
+}
+.adress8 .leftadress h1 {
+  position: relative;
+  right: -85px;
+}
+.adress8 .leftadress p {
+  position: relative;
+  left: 181px;
+  /* background-color: red; */
+}
+.adress8 .rightadress h1 {
+  position: relative;
+  right: 109px;
+  bottom: 25px;
+}
+.adress8 .rightadress p {
+  position: relative;
+  left: 241px;
+  bottom: 84px;
+  /* background-color: red; */
+}
+
+.adress9 {
+  text-align: center;
+  font-size: 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 270px;
+}
+.adress9 .leftadress h1 {
+  position: relative;
+  right: -115px;
+}
+.adress9 .leftadress p {
+  position: relative;
+  left: 123px;
+  /* background-color: red; */
+}
+.adress9 .rightadress h1 {
+  position: relative;
+  right: 4px;
+  bottom: 5px;
+}
+.adress9 .rightadress p {
+  position: relative;
+  left: 28px;
+  bottom: 70px;
+  /* background-color: red; */
+}
+
+.adress10 {
+  text-align: center;
+  font-size: 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 270px;
+}
+.adress10 .leftadress h1 {
+  position: relative;
+  right: 0px;
+}
+.adress10 .leftadress p {
+  position: relative;
+  left: 148px;
+  /* background-color: red; */
+}
+.adress10 .rightadress h1 {
+  position: relative;
+  right: 165px;
+  bottom: 53px;
+}
+.adress10 .rightadress p {
+  position: relative;
+  left: -9px;
+  bottom: 100px;
+  /* background-color: red; */
+}
+
+.adress11 {
+  text-align: center;
+  font-size: 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 270px;
+}
+.adress11 .leftadress h1 {
+  position: relative;
+  right: 25px;
+}
+.adress11 .leftadress p {
+  position: relative;
+  left: 170px;
+}
+.adress11 .rightadress h1 {
+  position: relative;
+  right: 80px;
+  bottom: 2px;
+}
+.adress11 .rightadress p {
+  position: relative;
+  left: 124px;
+  bottom: 50px;
+}
+
+.adress12 .leftadress h1 {
+  position: relative;
+  right: -175px;
+  bottom: 14px;
+}
+.adress12 .leftadress p {
+  position: relative;
+  left: 180px;
+  
+}

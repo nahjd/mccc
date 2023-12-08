@@ -1,0 +1,34 @@
+.pro {
+  position: relative;
+  bottom: 100px;
+  height: 80vh;
+  width: 100%;
+  background-color: #ffbc0d;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.pro2 {
+  position: relative;
+  top: 50px;
+  background-color: white;
+  width: 650px;
+  margin: 0 auto;
+}
+
+.pro img {
+  width: 350px;
+}
+
+.pro h2 {
+  font-size: 39px;
+  position: relative;
+  top: 4px;
+  color: black;
+}
+
+.data {
+  font-size: 25px;
+  position: relative;
+  bottom: 10px;
+}/*# sourceMappingURL=profile.css.map */
