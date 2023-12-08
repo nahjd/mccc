@@ -1,0 +1,71 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.cardsmealheading {
+  text-align: center;
+}
+
+.sevimliler {
+  display: flex;
+  // border: 1px solid gray;
+  margin: 0 auto;
+  width: 250px;
+  height: 40px;
+}
+.sevimliler h4 {
+  margin-top: 40px;
+  margin-left: 20px;
+}
+
+.Container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sevimlimg {
+  width: 70px;
+}
+
+.sortdiv {
+  margin-left: 20;
+  display: flex;
+}
+.sortdiv h4 {
+  margin-top: 40px;
+  margin-left: 20px;
+}
+.meals {
+  border: none; /* Remove the border from meals class */
+  width: 250px;
+}
+
+.cards {
+  margin-left: 200px;
+}
+
+.mealname {
+  font-size: 25;
+  text-align: center;
+  text-decoration: none;
+  width: 100%;
+  margin-left: 230px;
+}
+
+.meal-image {
+  margin: 0 auto;
+}
+
+
+
+.card {
+  text-decoration: none;
+  color: inherit;
+  width: 300px;
+  height: 400px;
+  font-size: 16px;
+  overflow: hidden;
+}

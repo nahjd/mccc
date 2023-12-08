@@ -1,0 +1,135 @@
+.BurgerAbout {
+  width: 1550px;
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.containerabout {
+  width: 100%;
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.containerabout .text h1 {
+  text-align: center;
+  font-size: 60px;
+  width: 1168px;
+  /* border: 1px solid black; */
+  /* margin-left: 315px; */
+}
+
+.image {
+  /* border: 3px solid blue; */
+  width: 100%;
+  background-size: cover;
+}
+
+.containerabout {
+  /* border: 10px solid green; */
+  /* background-color: red; */
+  text-align: center;
+}
+
+.about {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+
+.abou2 {
+  width: 100%;
+  /* border: 3px solid red; */
+}
+
+.abou2 h2 {
+  margin-top: 105px;
+  font-size: 55px;
+  /* background-color: red; */
+}
+
+.abou2 p {
+  /* background-color: blue; */
+  font-size: 25px;
+  color: #212529;
+}
+
+.abou2 .middle a {
+  color: rgb(0, 85, 119);
+}
+
+.image2 img {
+  /* width: 250px; */
+  /* border: 10px solid black; */
+  width: 750px;
+  position: relative;
+  right: 210px;
+  margin-top: 105px;
+}
+
+.image2 h2 {
+  position: relative;
+  right: 270px;
+  bottom: 60px;
+}
+
+.image2 p {
+  position: relative;
+  left: 180px;
+  bottom: 50px;
+}
+
+.image2 .btn {
+  cursor: pointer;
+  font-size: 25px;
+  width: 260px;
+  height: 70px;
+  border-radius: 11px;
+  border: none;
+  position: relative;
+  right: 465px;
+  bottom: 25px;
+}
+
+.image3 img {
+  width: 750px;
+  position: relative;
+  right: 210px;
+  margin-top: 105px;
+}
+
+.image3 h2 {
+  position: relative;
+  right: 330px;
+  bottom: 60px;
+}
+
+.image3 p {
+  position: relative;
+  left: 180px;
+  bottom: 50px;
+}
+
+.image3 .btn {
+  cursor: pointer;
+  font-size: 25px;
+  width: 260px;
+  height: 70px;
+  border-radius: 11px;
+  border: none;
+  position: relative;
+  right: 465px;
+  bottom: 25px;
+}
+
+.middle h2 {
+  position: relative;
+  right: 310px;
+  /* background-color: green; */
+}
+
+.middle p {
+  position: relative;
+  left: 180px;
+}/*# sourceMappingURL=aboutmeals.css.map */
